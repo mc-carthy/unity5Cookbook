@@ -81,6 +81,7 @@
 -define:UNITY_EDITOR
 -define:UNITY_EDITOR_64
 -define:UNITY_EDITOR_OSX
-'Assets/NewBehaviourScript.cs'
+'Assets/Scripts/ClockDigital.cs'
+'Assets/Scripts/DigitalCountdown.cs'
 -r:'/Applications/Unity/Unity.app/Contents/Frameworks/Mono/lib/mono/unity/System.Runtime.Serialization.dll'
 -r:'/Applications/Unity/Unity.app/Contents/Frameworks/Mono/lib/mono/unity/System.Xml.Linq.dll'
