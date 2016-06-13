@@ -11,20 +11,20 @@ public class ArrangeActions : MonoBehaviour {
 	}
 
 	public void MoveDownOne(){
-		//print ("(before change) " + GameObject.name +  " sibling index = " + panelRectTransform.GetSiblingIndex());
+		print ("(before change) " + GameObject.name +  " sibling index = " + panelRectTransform.GetSiblingIndex());
 
 		int currentSiblingIndex = panelRectTransform.GetSiblingIndex();
 		panelRectTransform.SetSiblingIndex( currentSiblingIndex - 1 );
 
-		//print ("(after change) " + GameObject.name +  " sibling index = " + panelRectTransform.GetSiblingIndex());
+		print ("(after change) " + GameObject.name +  " sibling index = " + panelRectTransform.GetSiblingIndex());
 	}
 
 	public void MoveUpOne(){
-		//print ("(before change) " + GameObject.name +  " sibling index = " + panelRectTransform.GetSiblingIndex());
+		print ("(before change) " + GameObject.name +  " sibling index = " + panelRectTransform.GetSiblingIndex());
 
 		int currentSiblingIndex = panelRectTransform.GetSiblingIndex();
 		panelRectTransform.SetSiblingIndex( currentSiblingIndex + 1 );
 
-		//print ("(after change) " + GameObject.name +  " sibling index = " + panelRectTransform.GetSiblingIndex());
+		print ("(after change) " + GameObject.name +  " sibling index = " + panelRectTransform.GetSiblingIndex());
 	}
 }
