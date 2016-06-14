@@ -6,7 +6,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{635C1FC4-7E5C-B777-6040-1718A691DDF6}</ProjectGuid>
+    <ProjectGuid>{9D01455C-AB9F-7055-ADCB-26CCB0FDDA60}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -45,6 +45,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\PlayerInventory.cs" />
+     <Compile Include="Assets\Scripts\PlayerInventoryDisplay.cs" />
      <Compile Include="Assets\Scripts\PlayerMove.cs" />
      <None Include="Assets\Sprites\SpaceCute PNG\sources.txt" />
  <Reference Include="UnityEngine.UI">
