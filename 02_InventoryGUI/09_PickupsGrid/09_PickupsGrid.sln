@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{F9F7D2B1-A1D9-145B-38BA-D6DBAC0AEDD3}") = "09_PickupsGrid", "Assembly-CSharp.csproj", "{AD8EC473-3797-3E3B-47BC-2B572810D18B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD8EC473-3797-3E3B-47BC-2B572810D18B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD8EC473-3797-3E3B-47BC-2B572810D18B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD8EC473-3797-3E3B-47BC-2B572810D18B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD8EC473-3797-3E3B-47BC-2B572810D18B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
