@@ -50,6 +50,7 @@
      <Compile Include="Assets\Scripts\PlayerInventoryDisplay.cs" />
      <Compile Include="Assets\Scripts\PlayerInventoryModel.cs" />
      <Compile Include="Assets\Scripts\PlayerMove.cs" />
+     <Compile Include="Assets\Scripts\RectTransformExtensions.cs" />
      <None Include="Assets\Sprites\SpaceCute PNG\sources.txt" />
  <Reference Include="UnityEngine.UI">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
