@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{1B2ED0FD-F606-544F-C1CE-ADECBCFF5371}") = "01_HorizontalFlippingSprite", "Assembly-CSharp.csproj", "{BA89E3B8-E564-41BA-117A-AF3778016A19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA89E3B8-E564-41BA-117A-AF3778016A19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA89E3B8-E564-41BA-117A-AF3778016A19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA89E3B8-E564-41BA-117A-AF3778016A19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA89E3B8-E564-41BA-117A-AF3778016A19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
