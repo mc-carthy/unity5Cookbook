@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{514F75A8-0E10-675D-80D8-446C83801E9C}") = "04_TriggerFallingPlatforms", "Assembly-CSharp.csproj", "{E798B3A7-B2A0-6991-18D1-237C963F619C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E798B3A7-B2A0-6991-18D1-237C963F619C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E798B3A7-B2A0-6991-18D1-237C963F619C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E798B3A7-B2A0-6991-18D1-237C963F619C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E798B3A7-B2A0-6991-18D1-237C963F619C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
